@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "company": "Berkeley Academy Students In Computer Science (BASICS)",
+    "role": "President",
+    "dates": "August 2021-June 2023",
+    "desc": [
+      "Led a club of 20 middle and high school students aimed to inspire students to pursue careers in technology to positively impact and change their communities.",
+      "Planned and taught a dynamic introductory course on Scratch."
+    ],
+    "img": "assets/experiences/basics.png"
+  },
+  {
+    "id": 2,
+    "company": "Girls in Technology Costa Rica (GITCR)",
+    "role": "Co-Founder",
+    "desc": [
+      "Organized and taught interactive programming workshops to a group of 15 middle-school girls from SOS Children's Villages, an NGO focused on supporting children without parental care.",
+      "Founded the first coding competition for middle school latinas in Costa Rica, acquired sponsorship from 5 renowned technology companies in the region."
+    ],
+    "dates": "August 2023-June 2023",
+    "img": "assets/experiences/gitcr.png"
+  },
+  {
+    "id": 3,
+    "company": "ELLA Impacta Centroamérica, Voces Vitales",
+    "role": "Participant",
+    "desc": [
+      "Participated in a selective program to cultivate leadership potential and resources to impact Latinas locally and state-wide.",
+      "Attended a forum where I received guidance and coaching from different mentors on women empowerment, leadership, marketing, entrepreneurship, and networking."
+    ],
+    "dates": "November 25-27, 2022",
+    "img": "assets/experiences/vocesvitales.jpg"
+  }
+]

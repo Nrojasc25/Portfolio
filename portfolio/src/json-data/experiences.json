@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "company": "WSI - Conecta Digital",
+    "role": "Arts Intern",
+    "dates": "July 2023 - August 2023",
+    "desc": [
+      "Agency in Costa Rica that creates digital marketing campaigns for small and medium size companies with markets all around the Globe.",
+      "Designed digital advertisements according to the clients’ needs."
+    ],
+    "img": "assets/experiences/wsi.png"
+  },
+  {
+    "id": 2,
+    "company": "Berkeley Academy for Multicultural Studies",
+    "role": "Guest Lecturer",
+    "desc": [
+      "Founded College Prep 2023, a week-long intensive course that prepares students for the application process of U.S.A. universities",
+      "Organized and taught workshops on SAT strategies, college counseling, and essay writing techniques.",
+      "Took charge in promoting the course, designing advertisements, and handling finances."
+    ],
+    "dates": "July 2023 - August 2023",
+    "img": "assets/experiences/berkeley.png"
+  },
+  {
+    "id": 3,
+    "company": "Hacking the System: Ransomware Attack on Costa Rican Government",
+    "role": "Senior Honors Thesis",
+    "desc": [
+      "An in-depth analysis of the ransomware attack in Costa Rica in 2020, government responses, and suggestions for increasing cybersecurity in the country.",
+      "Gained basic understanding of complex cybersecurity vulnerabilities, defenses, and employment.",
+      "Presented the research findings in Berkeley Academy High School, brought awareness in cybersecurity to teenage students."
+    ],
+    "dates": "January 2023-May 2023",
+    "img": "assets/experiences/berkeley.png"
+  }
+]
+
